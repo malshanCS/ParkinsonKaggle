@@ -9,7 +9,7 @@ Competition host, the Accelerating Medicines Partnership® Parkinson’s Disease
 Your work could help in the search for a cure for Parkinson’s disease, which would alleviate the substantial suffering and medical care costs of patients with this disease.
 
 ## Team members
-- @malshanCS
-- pavanPasindu
+- Malshan Keerthichandra
+- Pavan Pasindu
 - Sanujen
 - Kobinath
